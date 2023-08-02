@@ -27,6 +27,7 @@ public class CreateNewAcc {
 	@FindBy(xpath="//Button[text()='Sign Up']")
 	private WebElement signup;
 	//We are just doing practical
+	//System.out.property("*");
 	
 	public CreateNewAcc(WebDriver driver)
 	{
